@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nikitas Menounos
 
-🎓 Computer Science student at [HMU](https://hmu.gr/)  
+🎓 Electronic Engineering student at [HMU](https://ee.hmu.gr/en/home/)  
 💼 Working at [LearnWorlds](https://www.learnworlds.com/)  
 🌍 Based in Chania, Greece  
 🛠️ Passionate about Web Dev, Game Dev, and Linux Customization
