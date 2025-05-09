@@ -8,35 +8,35 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I'm a curious and creative developer who thrives on building robust systems and automating workflows. I’m especially passionate about:
+I'm a curious and creative developer who thrives on building reliable systems and automating workflows. I’m especially passionate about:
 
-- 🔧 **Web Development** – `Laravel`, `Vue.js`, `HTML`, `CSS`
-- 🤖 **QA Automation** – Building and maintaining testing pipelines with tools like `Playwright`
-- 🐧 **Linux Customization** – Scripting and tweaking for `Kubuntu`
-- 🔐 **Security** – Crafting lightweight security tools and CLI utilities
+- 🔧 **Web Development** – Crafting apps with `Laravel`, `Vue.js`, `HTML`, and `CSS`
+- 🤖 **QA Automation** – Designing robust test suites using tools like `Playwright`
+- 🐧 **Linux Customization** – Tweaking and scripting for a personalized `Kubuntu` experience
+- 🔐 **Security & Scripting** – Developing lightweight CLI tools and custom utilities
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the key projects I’ve been working on:
+A few highlights from my GitHub:
 
 - [🔐 password-manager-](https://github.com/nikitasmen/password-manager-)  
-  A lightweight C++ CLI password manager for secure offline storage.  
-  `C++` `CLI` `Encryption`
+  A lightweight and secure C++ CLI password manager for offline use.  
+  `C++` `Encryption` `CLI`
 
 - [🎛️ KubuntuCustoms](https://github.com/nikitasmen/KubuntuCustoms)  
-  Personal customization scripts and tweaks to tailor Kubuntu for productivity.  
-  `Shell` `Linux` `Customization`
+  A collection of shell scripts and tweaks to optimize Kubuntu productivity.  
+  `Shell` `Linux` `Productivity`
 
 - [📘 e-lib](https://github.com/nikitasmen/e-lib)  
-  A digital library web app for browsing, adding, and managing books.  
-  `PHP` `Full-Stack` `MongoDb`
+  A digital library app for managing and browsing book collections.  
+  `PHP` `MongoDB` `Full-Stack`
 
 - [🚗 carDb](https://github.com/nikitasmen/carDb)  
-  A simple car database app with search and filter capabilities.  
+  A simple Python-MySQL CRUD app for managing a car inventory database.  
   `Python` `MySQL` `CRUD`
 
 ---
@@ -61,8 +61,10 @@ Here are some of the key projects I’ve been working on:
 
 ## 🧭 Currently Exploring
 
-- 🐳 Docker for automating QA environments
-- 📦 Building reusable Playwright components
-- 🌱 Contributions to open-source testing tools
+- 🐳 Docker for scalable and isolated QA environments
+- 📦 Creating reusable components in Playwright
+- 🌱 Contributing to open-source testing and automation tools
 
-☕ Feel free to connect — I’m always open to collaborations, automation projects, or tech chats!
+---
+
+☕ Feel free to connect — always open to collaborations, tech talks, or automation projects!
