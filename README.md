@@ -55,7 +55,6 @@ A few highlights from my GitHub:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikmenou-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikmenou)  
 [![Discord](https://img.shields.io/badge/Discord-nikitasmen-5865F2?logo=discord&logoColor=white)](https://discord.com/)  
-[![Email](https://img.shields.io/badge/Email-menounosnikitas%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:menounosnikitas@gmail.com)
 
 ---
 
