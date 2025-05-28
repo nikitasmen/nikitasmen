@@ -38,17 +38,7 @@ A few highlights from my GitHub:
 - [🚗 carDb](https://github.com/nikitasmen/carDb)  
   A simple Python-MySQL CRUD app for managing a car inventory database.  
   `Python` `MySQL` `CRUD`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitasmen&theme=default&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitasmen&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
+  
 ---
 
 ## 📫 Connect with Me
