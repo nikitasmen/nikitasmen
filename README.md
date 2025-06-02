@@ -27,8 +27,8 @@ A few highlights from my GitHub:
   A lightweight and secure C++ CLI password manager for offline use.  
   `C++` `Encryption` `CLI`
 
-- [🎛️ KubuntuCustoms](https://github.com/nikitasmen/KubuntuCustoms)  
-  A collection of shell scripts and tweaks to optimize Kubuntu productivity.  
+- [🎛️ UnixKit](https://github.com/nikitasmen/UnixKit)  
+  A collection of shell scripts and tweaks to optimize Unix productivity.  
   `Shell` `Linux` `Productivity`
 
 - [📘 e-lib](https://github.com/nikitasmen/e-lib)  
