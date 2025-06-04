@@ -14,7 +14,7 @@ I'm a curious and creative developer who thrives on building reliable systems an
 
 - 🔧 **Web Development** – Crafting apps with `Laravel`, `Vue.js`, `HTML`, and `CSS`
 - 🤖 **QA Automation** – Designing robust test suites using tools like `Playwright`
-- 🐧 **Linux Customization** – Tweaking and scripting for a personalized `Kubuntu` experience
+- 🐧 **Linux Customization** – Tweaking and scripting for a personalized `Kubuntu`   || `NixOs` experience
 - 🔐 **Security & Scripting** – Developing lightweight CLI tools and custom utilities
 
 ---
