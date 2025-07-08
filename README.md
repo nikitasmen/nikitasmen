@@ -37,33 +37,13 @@ I'm a curious and creative developer who thrives on building reliable systems an
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-
-## 🚀 Projects
-
-A few highlights from my GitHub:
-
-- [🔐 password-manager-](https://github.com/nikitasmen/password-manager-)  
-  A lightweight and secure C++ CLI password manager for offline use.  
-  `C++` `Encryption` `CLI`
-
-- [🎛️ UnixKit](https://github.com/nikitasmen/UnixKit)  
-  A collection of shell scripts and tweaks to optimize Unix productivity.  
-  `Shell` `Linux` `Productivity`
-
-- [📘 e-lib](https://github.com/nikitasmen/e-lib)  
-  A digital library app for managing and browsing book collections.  
-  `PHP` `MongoDB` `Full-Stack`
-
-- [🚗 carDb](https://github.com/nikitasmen/carDb)  
-  A simple Python-MySQL CRUD app for managing a car inventory database.  
-  `Python` `MySQL` `CRUD`
-  
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikmenou-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikmenou)  
-[![Discord](https://img.shields.io/badge/Discord-nikitasmen-5865F2?logo=discord&logoColor=white)](https://discord.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikmenou-0077B5?logo=linkedin)](https://www.linkedin.com/in/nikmenou)
+[![Email](https://img.shields.io/badge/Email-nikitas.menounos%40gmail.com-D14836?logo=gmail)](mailto:nikitas.menounos@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nikitasmen-181717?logo=github)](https://github.com/nikitasmen)
 
 ---
 
