@@ -42,7 +42,7 @@ I'm a curious and creative developer who thrives on building reliable systems an
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikmenou-0077B5?logo=linkedin)](https://www.linkedin.com/in/nikmenou)
-[![Email](https://img.shields.io/badge/Email-nikitas.menounos%40gmail.com-D14836?logo=gmail)](mailto:nikitas.menounos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-menounosnikitas%40gmail.com-D14836?logo=gmail)](mailto:menounosnikitas@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nikitasmen-181717?logo=github)](https://github.com/nikitasmen)
 
 ---
