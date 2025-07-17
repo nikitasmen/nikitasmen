@@ -44,16 +44,6 @@ I'm a curious and creative developer who thrives on building reliable systems an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikmenou-0077B5?logo=linkedin)](https://www.linkedin.com/in/nikmenou)
 [![Email](https://img.shields.io/badge/Email-menounosnikitas%40gmail.com-D14836?logo=gmail)](mailto:menounosnikitas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nikitasmen-181717?logo=github)](https://github.com/nikitasmen)
-
----
-
-## 🧭 Currently Exploring
-
-- 🐳 Docker for scalable and isolated QA environments
-- 📦 Creating reusable components in Playwright
-- 🌱 Contributing to open-source testing and automation tools
-
----
 
 ☕ Feel free to connect — always open to collaborations, tech talks, or automation projects!
+
